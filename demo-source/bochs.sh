@@ -1,0 +1,1 @@
+bochs 'magic_break: enabled=1' 'floppya: 720k=bin/fat.img, status=inserted' 'floppyb: 720k=bin/fat2.img, status=inserted' 'boot: a' 'vga: update_freq=60' 'clock: sync=realtime, time0=local'  'sb16: loglevel=3, log=sb16.log, dmatimer=600000' 
