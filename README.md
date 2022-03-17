@@ -1,6 +1,8 @@
 # BadApple5150
 A demo running the Bad Apple shadow-art animation on a IBM PC 5150.
 
+Blog post explaining some of the technical details of the demo : https://dreamsoftheeast.com/tech/bad-apple-5150/
+
 ![GIF](https://imgur.com/40cP685.gif)
 
 ## Running the demo
